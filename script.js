@@ -2,13 +2,10 @@
 function addToDisplay(value) {
     const display = document.getElementById('display');
     const currentValue = display.value;
-
     // Verificar si el último carácter es un operador
     const lastCharIsOperator = isOperator(currentValue.charAt(currentValue.length - 1));
-
     // Verificar si el valor que se está agregando es un operador
     const newValueIsOperator = isOperator(value);
-
     // Mostrar solo un signo si el último carácter también es un operador
     if (lastCharIsOperator && newValueIsOperator) {
         // Reemplazar el último operador con el nuevo
@@ -27,7 +24,6 @@ function deleteLastDigit() {
 function isOperator(char) {
     return ['+', '-', '*', '/'].includes(char);
 }
-
 function calculate() {
     try {
         const expression = document.getElementById('display').value;
@@ -40,21 +36,17 @@ function calculate() {
         document.getElementById('display').value = 'Error';
     }
 }
-
 function clearDisplay() {
     document.getElementById('display').value = '';
 }
-
 // Función para animar el display (debes implementarla)
 function animateDisplay() {
     // Implementa la lógica de animación si es necesario
 }
-
 // Función para guardar en el Local Storage (debes implementarla)
 function saveToLocalStorage(expression, result) {
     // Implementa la lógica de guardado en el Local Storage si es necesario
 }
-
         // Funciones del historial
         let history = [];
         let currentIndex = -1;
