@@ -280,3 +280,12 @@ h3 {
         width: 220px;
     }
 }
+
+/* Flex item */
+.flex-container .flex-item {
+    background-color: white;
+    border: 2px solid red; /* Cambiado a "2px solid" para especificar un contorno de 2 píxeles de ancho */
+    border-color: black; /* Agregado para establecer el color del contorno a negro */
+}
+
+
