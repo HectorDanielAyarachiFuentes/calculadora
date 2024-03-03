@@ -12,7 +12,7 @@ La Calculadora Moderna presenta una interfaz elegante y fácil de usar que propo
 Mantén un registro de tus cálculos con nuestro práctico historial. Accede a tus operaciones anteriores para un seguimiento detallado y un análisis rápido.
 ### Funcionalidad Responsiva
 La calculadora se adapta a diferentes dispositivos, desde notebooks hasta dispositivos móviles. Puedes disfrutar de la misma experiencia de usuario sin importar dónde estés.
-![Responsivo en Notebook](https://github.com/HectorDanielAyarachiFuentes/Calculadora-Moderna/blob/main/Fotos%20Readme/Responsivo-Notebook.png?raw=true)
+![Responsivo en Notebook](https://github.com/HectorDanielAyarachiFuentes/Calculadora-Moderna/blob/main/Fotos%20Readme/Responsivo-Notebook.gif?raw=true)
 Experimenta la elegancia de la Calculadora Moderna incluso en tu dispositivo móvil. La interfaz se adapta de manera intuitiva, ofreciendo una experiencia de cálculo suave y eficiente en pantallas más pequeñas.
 ![Responsivo en Móvil](https://github.com/HectorDanielAyarachiFuentes/Calculadora-Moderna/blob/main/Fotos%20Readme/Responsivo-movil.gif?raw=true)
 *GIF: Funcionalidad Responsiva en Dispositivo Móvil*
